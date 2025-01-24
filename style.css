@@ -1,0 +1,15 @@
+*{
+    background-color: antiquewhite;
+    color: blueviolet;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#navMenu{
+    list-style-type: none;
+}
+
+.navItem{
+    font-size: 18px;
+    margin-bottom: 8px;
+}

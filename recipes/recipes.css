@@ -1,0 +1,22 @@
+*{
+    background-color: antiquewhite;
+    color: blueviolet;
+    font-family: sans-serif;
+}
+
+ul{
+    list-style: none;
+}
+
+ul li{
+    margin-bottom: 16px;
+}
+
+ol li{
+    margin-bottom: 16px;
+}
+
+h3{
+    font-weight: bold;
+    text-decoration: underline;
+}
