@@ -1,8 +1,18 @@
 *{
-    background-color: antiquewhite;
-    color: blueviolet;
-    text-align: center;
     font-family: sans-serif;
+    text-align: center;
+    background-color: #151515;
+    box-sizing: border-box;
+}
+
+h1{
+    color: white;
+    border-bottom: 2px solid blueviolet;
+    padding-bottom: 8px;
+    margin-top: 350px;
+    max-width: fit-content;
+    text-align: center;
+    display: inline-block;
 }
 
 #navMenu{
@@ -11,5 +21,20 @@
 
 .navItem{
     font-size: 18px;
-    margin-bottom: 8px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 8px 8px;
+    border: 2px solid blueviolet;
+    padding: 8px;
+    width: 200px;
+    border-radius: 4px;
+    background-color: white;
+    color: blueviolet;
+    
 }
+
+.navItem:hover{
+    background-color: blueviolet;
+    color: white;
+}
+
